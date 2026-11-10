@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T14:09:48+01:00",
-  "greed_state": "thinking",
+  "updated_at": "2026-11-10T18:44:46+01:00",
+  "greed_state": "idle",
   "balances": {
     "mt5_demo": 50.0,
     "tv_paper": 50.0
